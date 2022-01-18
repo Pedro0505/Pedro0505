@@ -5,14 +5,13 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Estudante de Desenvolvimento Web <a href="https://betrybe.com" target="_blanck">Trybe</a></li>
+    <li>- 🔭 Estudante de Desenvolvimento Web <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo Docker</li>
     <li>- 💬 Me pergunte sobre Animes e Jogos</li>
     <li>- 😄 Pronomes: Ele / Dele </li>
   </div>
 </div>
 
-<br />
 <br />
 <br />
 
@@ -22,7 +21,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro0505&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br />
 <br />
 <br />
 
