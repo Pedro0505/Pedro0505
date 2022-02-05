@@ -3,7 +3,7 @@
 <br />
 <br />
 
-### Um Pouco Sobre Mim:
+## Um Pouco Sobre Mim:
 
 <div align="center">
   <div align="left" style="display: inline_block">
@@ -25,7 +25,7 @@
 
 <br />
   
- ### Minhas Habilidades
+ ## Minhas Habilidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,7 +39,7 @@
 
 <br />
 
- ### Contatos
+## 🔗 Links
   
 <a href="https://www.linkedin.com/in/pedrohenriquer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
