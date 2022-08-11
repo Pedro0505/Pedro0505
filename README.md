@@ -27,6 +27,9 @@
 
 ## Projetos
 
+<a href="https://github.com/Pedro0505/project-manager-backend" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0505&repo=project-manager-backend&theme=react&hide_border=true" />
+</a>
 <a href="https://github.com/Pedro0505/Trybe-Futebol-Clube" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0505&repo=Trybe-Futebol-Clube&theme=react&hide_border=true" />
 </a>
