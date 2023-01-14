@@ -30,7 +30,7 @@
 <a href="https://github.com/Pedro0505/project-manager-backend" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro0505&repo=project-manager-backend&theme=dracula" />
 </a>
-<a href="https://github.com/Pedro0505/Trybe-Futebol-Clube" target="_blank">
+<a href="https://github.com/Pedro0505/ng-bank" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro0505&repo=ng-bank&theme=dracula" />
 </a>
   
