@@ -19,8 +19,8 @@
 
 <div>
   <a href="https://github.com/Pedro0505">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro0505&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro0505&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedro0505&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0505&layout=compact&theme=dracula&hide_border=true"/>
 </div>
 
 <br />
@@ -28,10 +28,10 @@
 ## Projetos
 
 <a href="https://github.com/Pedro0505/project-manager-backend" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0505&repo=project-manager-backend&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro0505&repo=project-manager-backend&theme=dracula" />
 </a>
 <a href="https://github.com/Pedro0505/Trybe-Futebol-Clube" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0505&repo=Trybe-Futebol-Clube&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro0505&repo=ng-bank&theme=dracula" />
 </a>
   
  ## Minhas Habilidades
