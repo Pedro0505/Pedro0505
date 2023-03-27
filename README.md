@@ -19,8 +19,8 @@
 
 <div>
   <a href="https://github.com/Pedro0505">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedro0505&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0505&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro0505&show_icons=true&include_all_commits=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedro0505&theme=dracula&layout=compact"/>
 </div>
 
 <br />
