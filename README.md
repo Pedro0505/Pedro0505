@@ -7,8 +7,6 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Estudante de Desenvolvimento Web <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo Java</li>
     <li>- 💬 Me pergunte sobre Animes e Jogos</li>
     <li>- 😄 Pronomes: Ele / Dele </li>
   </div>
